@@ -1,0 +1,21 @@
+.navbar {
+  position: absolute;
+  width: 150px;
+  height: 100vh;
+  background: #191718;
+}
+
+.content {
+  position: absolute;
+  width: 1768px;
+  height: 935px;
+  background: #FFFFFF;
+}
+
+.logo {
+  position: absolute;
+  width: 310px;
+  height: 122px;
+  right: 879px;
+  left: 958px;
+}
